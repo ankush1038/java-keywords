@@ -27,7 +27,7 @@ class BankAccount {
     }
 }
 
-// Main class to test the BankAccount class
+// Main class to test BankAccount class
 public class BankAccountSystem {
     public static void main(String[] args) {
         BankAccount acc1 = new BankAccount(2111981380, "Ankush", 999999999);
